@@ -1,0 +1,2 @@
+# Mimapa
+Ejemplo de mapa
